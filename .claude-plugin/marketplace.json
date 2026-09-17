@@ -1,0 +1,28 @@
+{
+  "name": "agentlinkops",
+  "owner": {
+    "name": "AgentLinkOps",
+    "url": "https://agentlinkops.com/"
+  },
+  "metadata": {
+    "description": "AgentLinkOps: the connect skill for its MCP server, CLI and HTTP API, plus campaign, CRM, linkable-asset and source-cited content skills. Backlink monitoring with dated evidence.",
+    "version": "0.5.0"
+  },
+  "plugins": [
+    {
+      "name": "agentlinkops",
+      "description": "Connect an agent to AgentLinkOps and run backlink work with it: the connect skill (views, the three discovery verbs, evidence rules), local ledger and campaign skills, a portable CRM, the source-cited content pipeline, user-managed disavow lists, HTML reports and monitoring-event sync.",
+      "version": "0.5.0",
+      "author": { "name": "AgentLinkOps", "url": "https://agentlinkops.com/" },
+      "homepage": "https://docs.agentlinkops.com/quickstart",
+      "repository": "https://github.com/sunlover7/agentlinkops-cli",
+      "license": "Apache-2.0",
+      "keywords": ["backlinks", "seo", "link-building", "mcp", "agent-skills"],
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "sunlover7/agentlinkops-cli"
+      }
+    }
+  ]
+}
