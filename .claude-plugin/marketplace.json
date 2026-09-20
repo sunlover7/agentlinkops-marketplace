@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "AgentLinkOps: the connect skill for its MCP server, CLI and HTTP API, plus campaign, CRM, linkable-asset and source-cited content skills. Backlink monitoring with dated evidence.",
-    "version": "0.5.0"
+    "version": "0.6.6"
   },
   "plugins": [
     {
       "name": "agentlinkops",
       "description": "Connect an agent to AgentLinkOps and run backlink work with it: the connect skill (views, the three discovery verbs, evidence rules), local ledger and campaign skills, a portable CRM, the source-cited content pipeline, user-managed disavow lists, HTML reports and monitoring-event sync.",
-      "version": "0.5.0",
+      "version": "0.6.6",
       "author": { "name": "AgentLinkOps", "url": "https://agentlinkops.com/" },
       "homepage": "https://docs.agentlinkops.com/quickstart",
       "repository": "https://github.com/sunlover7/agentlinkops-cli",
@@ -21,7 +21,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "sunlover7/agentlinkops-cli"
+        "repo": "sunlover7/agentlinkops-cli",
+        "ref": "v0.6.6",
+        "sha": "08d3999a962da746a7223f60d9a2d290ce5a70cf"
       }
     }
   ]
