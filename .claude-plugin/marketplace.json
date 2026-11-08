@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Five product skills for AgentLinkOps connection, backlink discovery, campaign preparation, local CRM records and focused linkable assets. Backlink monitoring with dated evidence.",
-    "version": "0.6.17"
+    "version": "0.6.18"
   },
   "plugins": [
     {
       "name": "agentlinkops",
       "description": "Five product skills for AgentLinkOps connection, backlink discovery, campaign preparation, local CRM records and focused linkable assets. Use the customer's own research and sender tools. Optional content and SEO are outside this pack; their separate artifacts await source, rights and dependency qualification.",
-      "version": "0.6.17",
+      "version": "0.6.18",
       "author": { "name": "AgentLinkOps", "url": "https://agentlinkops.com/" },
       "homepage": "https://docs.agentlinkops.com/quickstart",
       "repository": "https://github.com/sunlover7/agentlinkops-cli",
@@ -22,8 +22,8 @@
       "source": {
         "source": "github",
         "repo": "sunlover7/agentlinkops-cli",
-        "ref": "v0.6.17",
-        "sha": "6aceb77e779a2f7bb7a3c5514f16c530730bed25"
+        "ref": "v0.6.18",
+        "sha": "6454d5668d906077e3d683fb46315aa13dd71200"
       }
     }
   ]
